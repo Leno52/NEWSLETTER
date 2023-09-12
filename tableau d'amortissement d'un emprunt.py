@@ -18,7 +18,6 @@ for k in range(1,n):
 X=input("saisir O si c'est validé ou N invalidé")
 if X.upper()=="O":
     print("Accord validé")
-else:
-    print("Accord invalidé")
+    
 
     
